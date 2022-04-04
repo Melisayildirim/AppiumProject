@@ -1,0 +1,7 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# Pantolon seçeneğine tıkla
+* "1" saniye kadar bekle
+* Xpath "//*[@class='android.widget.RelativeLayout']//*[@text='Pantolon']" elementi bul ve tıkla
+* "1" saniye kadar bekle

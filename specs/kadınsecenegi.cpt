@@ -1,0 +1,7 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# Kadın seçeneğine tıkla
+* "1" saniye kadar bekle
+* Xpath "//*[@class='androidx.recyclerview.widget.RecyclerView']/android.widget.RelativeLayout[2]" elementi bul ve tıkla
+* "1" saniye kadar bekle
